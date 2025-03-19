@@ -1,4 +1,4 @@
- const fs = require('fs');
+const fs = require('fs');
 const axios = require('axios');
 
 const apiKey = process.env.YOUTUBE_API_KEY;
